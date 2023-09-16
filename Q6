@@ -1,0 +1,7 @@
+VARIABLE NAME
+
+01PWskills -----------> NO - Can not start with number
+_FLOAT ---------------> YES - start with _
+int ------------------> C++ keyword
+FLOAT ----------------> NO
+YOu will succeed ------> NO - Can not take space
